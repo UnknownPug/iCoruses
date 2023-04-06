@@ -1,0 +1,49 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\pageAllowed\u0028\u0029",
+            "name": "pageAllowed",
+            "summary": "",
+            "url": "namespaces/default.html#function_pageAllowed"
+        },                {
+            "fqsen": "\\DB_FILE",
+            "name": "DB_FILE",
+            "summary": "",
+            "url": "namespaces/default.html#constant_DB_FILE"
+        },                {
+            "fqsen": "\\CR_FILE",
+            "name": "CR_FILE",
+            "summary": "",
+            "url": "namespaces/default.html#constant_CR_FILE"
+        },                {
+            "fqsen": "\\addUser\u0028\u0029",
+            "name": "addUser",
+            "summary": "",
+            "url": "namespaces/default.html#function_addUser"
+        },                {
+            "fqsen": "\\addCourse\u0028\u0029",
+            "name": "addCourse",
+            "summary": "",
+            "url": "namespaces/default.html#function_addCourse"
+        },                {
+            "fqsen": "\\getUserByEmail\u0028\u0029",
+            "name": "getUserByEmail",
+            "summary": "",
+            "url": "namespaces/default.html#function_getUserByEmail"
+        },                {
+            "fqsen": "\\getUserByUid\u0028\u0029",
+            "name": "getUserByUid",
+            "summary": "",
+            "url": "namespaces/default.html#function_getUserByUid"
+        },                {
+            "fqsen": "\\getCourseById\u0028\u0029",
+            "name": "getCourseById",
+            "summary": "",
+            "url": "namespaces/default.html#function_getCourseById"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);

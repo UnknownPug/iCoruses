@@ -1,0 +1,429 @@
+[
+    {
+        "id": "63894b7fb6006",
+        "email": "test01@user.cz",
+        "username": "User01",
+        "password": "$2y$10$5rI2XryAqUbEt5AkPmwMh.djiYCLgxNwGLAqXVIX4yPeUjdldFvQq",
+        "date": "2008-12-12"
+    },
+    {
+        "id": "63894c1ee588b",
+        "email": "test02@user.cz",
+        "username": "User02",
+        "password": "$2y$10$NDFImH4dYqNU454JxWNC6eW1f.v4i3eMO\/sEudjDvbASsVvcF0Jce",
+        "date": "2009-12-12"
+    },
+    {
+        "id": "63894c3a796a3",
+        "email": "test03@user.cz",
+        "username": "User03",
+        "password": "$2y$10$SbAppKh8xjiEFQ6CrX4waOK.cDEiKH.dd7N.lIcV2ovPad9Oracf2",
+        "date": "1987-02-12"
+    },
+    {
+        "id": "63894ee9a9c17",
+        "email": "test04@user.cz",
+        "username": "User04",
+        "password": "$2y$10$u2FFacXRbkodIl8OCtJeTOm86CaczMq\/g8UMUVOcJjpD6IE6DcQIW",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "6389595cb3f24",
+        "email": "test05@user.cz",
+        "username": "Dima01",
+        "password": "$2y$10$aYS9Bat1rZcMzOiZ9ehAtO4dwPMh6iywZzzeMa1qXJVIj5WRXP3rm",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63895b7b27d84",
+        "email": "test06@user.cz",
+        "username": "User06",
+        "password": "$2y$10$rhMCCZkfBapeZ7hFWpfciu\/uavVHimeQW5Y4pe08ZHyeA.WXY8WKG",
+        "date": "2001-12-12"
+    },
+    {
+        "id": "638a89694a2af",
+        "email": "zwaisthebest@subject.sit",
+        "username": "Velebil",
+        "password": "$2y$10$zuajOZLo6JkP.LrAykPZOe2ewvXGxrM61YKRIqbIeL8s01kpda6T.",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63b025e12f5f0",
+        "email": "testuser@test.com",
+        "username": "Username",
+        "password": "$2y$10$nOyEi2DvirjjHk0MEOBQ2Oted98o\/yXOp5a24PA6ZPM\/8K29fH56u",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63c51ce6d2001",
+        "email": "last@test.zwa.cz",
+        "username": "ILovePHP",
+        "password": "$2y$10$l38fcsMmeJPUiwM\/2cLcR.7IMN8fGVJpnLMC0ielkUBtMtLqooayK",
+        "date": "1999-12-12"
+    },
+    {
+        "id": "63c526b9705d7",
+        "email": "asdas@test.com",
+        "username": "DIMA",
+        "password": "$2y$10$NSbQnKiTvHfH613RToPuKuH2cEKINqorRf2Kz86KhLWNqepd6ufc2",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63c54f78e814c",
+        "email": "test@php.com",
+        "username": "User32",
+        "password": "$2y$10$\/rNizxAksbEyQevHsx3c4Ojbt19o7PLGkOaHdLYoDhpNgPk5hpICS",
+        "date": "2001-02-01"
+    },
+    {
+        "id": "63c55008739c9",
+        "email": "test@phplove.com",
+        "username": "PhpLover",
+        "password": "$2y$10$hlfIxksYqgYwf\/5QAyMXBeMEivOUJDt2lHgDyBMVbK8C2Vh3WN5am",
+        "date": "2001-03-03"
+    },
+    {
+        "id": "63c5505ee0cbb",
+        "email": "test@phplover.com",
+        "username": "PhpLover1",
+        "password": "$2y$10$iqvQPBd.lP7ENP6hbK5CEeegTgeqtX8VrVFKRNUe9UPt1qGjeGI3m",
+        "date": "2001-03-03"
+    },
+    {
+        "id": "63c5594016c35",
+        "email": "kekcheburek@gmail.com",
+        "username": "Loki",
+        "password": "$2y$10$PNrCifmQK85DcPmjpO5zzeuM1yVE3ZY650fajI5gesbmwKoep8m7m",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63c560831bfe9",
+        "email": "test100@test.com",
+        "username": "Markus",
+        "password": "$2y$10$1CuJol260sVEpLsie42B8OKTdeyb2GzHcBbsrgWPwgBv0NUHmsY86",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63c5894435f8d",
+        "email": "kucherd2003@gmail.com",
+        "username": "dkucher",
+        "password": "$2y$10$zyKeceplYx1L3P\/tlEtd9ui1rjV89lwkX2w2sxC5d.690sBVDpxz2",
+        "date": "2003-11-07"
+    },
+    {
+        "id": "63c58d91953a7",
+        "email": "anhen201@gmail.com",
+        "username": "Anna",
+        "password": "$2y$10$UH4TKtS6v3zEncBlQyYG\/O3Jg5K7jNgrBEIbTWRcNV6e1na5iBb0C",
+        "date": "1987-12-16"
+    },
+    {
+        "id": "63c58ef8f2314",
+        "email": "ag.0509030309@gmail.com",
+        "username": "Alex",
+        "password": "$2y$10$4AaFQ1G9VK0PqMurjf.Ql.7iq9c3tCsoQEC8d3AreFhmKuSnVD0em",
+        "date": "1993-01-16"
+    },
+    {
+        "id": "63c58f07b4659",
+        "email": "newuser@user.com",
+        "username": "ZWA",
+        "password": "$2y$10$oVT10QWByxV4\/anziijomOodlV3wY8B4tSp37Au3niPqHbTOP4aVS",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63c5b278ecae9",
+        "email": "dasdas@ca.com",
+        "username": "isa",
+        "password": "$2y$10$4MzN74w.3MliFqYiWmNwKuyP.w4TyRVR24oeRxUuKs9Nw3RxIU1gG",
+        "date": "2001-12-12"
+    },
+    {
+        "id": "63c5de0d17fe6",
+        "email": "hellouser@test.com",
+        "username": "newUser",
+        "password": "$2y$10$NnNsq0LKxu1PSU5evA3PwuUsX3NFkxN2JbAiPb3JYq\/q\/E4aFyIna",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63c5de68ed428",
+        "email": "well@hello.com",
+        "username": "sdopakssd",
+        "password": "$2y$10$nEHIFqkMV9pGXOAQSOHik.cWHWX95dmXj6jNGiD8DRRk0wQanDfru",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63cb12c2e4bea",
+        "email": "asdasd@ca.com",
+        "username": "oskdpoaskopdk",
+        "password": "$2y$10$IoGJfmqTHGftcJTuAs1F5edg.a0zxWqBpdIm7WIQwjSrIQ\/iVcbpC",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63cb12e91b5a3",
+        "email": "lolkek@test.com",
+        "username": "test",
+        "password": "$2y$10$8V76QEt7tJkPTkMiROpGyuLedsGOPqt4sGqlrZrIfhh2fT40r9W9u",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63cb14b24ffcd",
+        "email": "someuser@gmail.com",
+        "username": "user",
+        "password": "$2y$10$pslAPSS8P1aImV9cjw36y.SmfOhg37lXtgs9fWGJqqIhWEzjwdqHu",
+        "date": "1999-01-12"
+    },
+    {
+        "id": "63cbc2197aeb0",
+        "email": "test09@test.com",
+        "username": "User09",
+        "password": "$2y$10$V4Fp6AjVkFVg9fC7TxpXheQEWJm2Z6BFftuPQEBgCTcgwo.QpF7Au",
+        "date": "1991-05-12"
+    },
+    {
+        "id": "63ccf66dbec0d",
+        "email": "test10@test.com",
+        "username": "UserTest10",
+        "password": "$2y$10$rEtxTCTUNESxQqB93ZBt8ufwmbP53K7AsMEyqwrjYDLDibaLIRshq",
+        "date": "2000-12-22"
+    },
+    {
+        "id": "63cd1ca1b5f78",
+        "email": "test11@test.com",
+        "username": "Dima",
+        "password": "$2y$10$58jnR00TIG9QFqetfbpQ9.x2bZiFoJwG5jPnhCTeAoqxj6Y41Udnu",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63d827ea0c663",
+        "email": "koko@koko.cz",
+        "username": "koko",
+        "password": "$2y$10$T3oWHz\/wGF8IZXO6FNnjcuyeTPFbucfXMgpjGu\/hR0IM8L5EeDGMu",
+        "date": "2000-11-22"
+    },
+    {
+        "id": "63d828a84725a",
+        "email": "kokos@ko.cz",
+        "username": "kokos",
+        "password": "$2y$10$2eTbH42NT7fNIxpZRtarq.Of\/otDDLcQcY7yan1DnWIz87hSIs3IW",
+        "date": "2000-11-22"
+    },
+    {
+        "id": "63d829c81f0e7",
+        "email": "dmitry@yes.com",
+        "username": "koko01",
+        "password": "$2y$10$PvyuQKXhXS\/rzuI\/mYBQt.7WgozbuMWPFgOLU4V3v06XB\/sS5OtuK",
+        "date": "2001-12-12"
+    },
+    {
+        "id": "63d8f30ea859c",
+        "email": "galrastvorova@gmail.com",
+        "username": "Gal",
+        "password": "$2y$10$rbDgR0URpYOHdu\/D37l6.ekGqTR\/uNBgn2agmOQevPnmIo4UICg9y",
+        "date": "2001-09-25"
+    },
+    {
+        "id": "63d97d5009696",
+        "email": "newuser@test.com",
+        "username": "KoKo",
+        "password": "$2y$10$5lWc33Ynm6opbTL1WKKaSeIia9ZWBgXYLcSCR1Wb.a5fdUN8hDNsW",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dbf4436b937",
+        "email": "admin@iCourses.com",
+        "username": "AdminKoko",
+        "password": "$2y$10$OuXnMNaAXK\/0uUsahV4PV.PhZZXzFdefbtvbPIOvyS.choQr8Fx0G",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dbf4a6e3f53",
+        "email": "test@user11.com",
+        "username": "test11",
+        "password": "$2y$10$kLAlzYGbzAlwJy83C19Ahur16QkbgpPcT1sV\/45dukXuuMTBgXRYi",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dbf4e97d029",
+        "email": "test@user12.com",
+        "username": "test12",
+        "password": "$2y$10$FXOIbdsbzT4IHOiVlSXYSOyAPsvzaIWKFUduRMJ4wpXKfpozRWQ0S",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc072b48f2f",
+        "email": "admin@ICourses.com",
+        "username": "AdminKOKO",
+        "password": "$2y$10$gQqOPlOMQYeIBtn7dHvWIu4rQ5dMC5yelx5\/uV7yBBAxWD4g.rX.m",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc125e94512",
+        "email": "sunshine@sasha.com",
+        "username": "sasha",
+        "password": "$2y$10$g\/Zk8xQoU27nVZETCIfCf.Xg3OFn8h.G5fxV05kJt\/FseO9uM9Cma",
+        "date": "2022-09-08"
+    },
+    {
+        "id": "63dc3d739251c",
+        "email": "jazzj6802@gmail.com",
+        "username": "zlatan",
+        "password": "$2y$10$mJ4rc.js6d4QUDoS9cPBhev4UDopL.XfD\/lc.9o12W\/MTNaw5PKX6",
+        "date": "2002-03-22"
+    },
+    {
+        "id": "63dc3e9d3ae5c",
+        "email": "masteryodaa22@gmail.com",
+        "username": "crock",
+        "password": "$2y$10$tBECL.L670ZIHPtCqNIazuvGG.AWL5XiiHU7.sLefl0EAjYe04Lia",
+        "date": "1998-07-25"
+    },
+    {
+        "id": "63dc3fa6a1c0f",
+        "email": "lolkek@da.com",
+        "username": "Olgerd",
+        "password": "$2y$10$hvHSmDdEYQaUSfPXK\/Fy4OpmTOYrhHRMUlOlDoFdreq50u8.8H1Kq",
+        "date": "2001-12-12"
+    },
+    {
+        "id": "63dc3ff5ac7e1",
+        "email": "lol@kek.com",
+        "username": "Olgerd01",
+        "password": "$2y$10$rtUtZeeeDptS3oLQvIGHFeKbl2cHG8u0oUm2BhcCfEB3CkUoPZrl2",
+        "date": "2001-12-12"
+    },
+    {
+        "id": "63dc401a835ba",
+        "email": "test@yes.com",
+        "username": "Olgerd02",
+        "password": "$2y$10$ewnvGGlHWM9xsF.QPAHN3OoTiTx4lniYJuIzCwN0TT88jwfrcGGwu",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc404a42a1b",
+        "email": "dima@gmail.com",
+        "username": "Dimon",
+        "password": "$2y$10$b2IrOEBKq\/QfzNSkIPdYju2TovOohgnzIDOqqGWVymi.pQCqLN81C",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc40b85741c",
+        "email": "iljya@olgerd.com",
+        "username": "OlgerdIlja",
+        "password": "$2y$10$pxc1zkdg18PLE5Juo4zZLuXU5uE6jIQxXXbPEYxyndkpJjKpMP5n6",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc4188a03cf",
+        "email": "salam1234@gmail.com",
+        "username": "harry",
+        "password": "$2y$10$0NmdY0yHK.jzjMNBQOOg9.qJqkR9Gn0oAFLh3KpkMtMFCjAtDdLiq",
+        "date": "1992-06-18"
+    },
+    {
+        "id": "63dc41acce147",
+        "email": "sahska@new.com",
+        "username": "Sashka",
+        "password": "$2y$10$ii0Q3KiRy6UagE3HmYpeEOCMUsnvx\/zrkXk6F6Em1feNehfTgvyVO",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc42b2bd700",
+        "email": "dasist@fantastic.com",
+        "username": "Fantastic",
+        "password": "$2y$10$FfgdCnKicYG9iI3lKcL2QeK76PzxaBZB.9GQ7Z5fNo6QoMIBzJym6",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc42f74bc86",
+        "email": "koko@chanel.com",
+        "username": "KokoChanel",
+        "password": "$2y$10$MpRVxaz4Fb..1WccCrrqYeBR2jX0u1UBc9G9xFLOtXwHiTJ0S3w36",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc43394d658",
+        "email": "omg@dry.com",
+        "username": "MVC",
+        "password": "$2y$10$yaccfDXjq04jyrays.M.M.ibf8DueUgp0LvHdUe9CSoTA\/G1rve1q",
+        "date": "2001-02-02"
+    },
+    {
+        "id": "63dc439180b7b",
+        "email": "ui@iu.com",
+        "username": "UIIU",
+        "password": "$2y$10$TrIGarlq32oye95bnRVlC.slLB8VAleWbDx\/T\/HVjmV8O\/DTN8hOi",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc43e208391",
+        "email": "jojo@jpjp.com",
+        "username": "JOJO",
+        "password": "$2y$10$ULXeyeCUfY8sp3XG7vqpjOw7wIsNx0t5ZpB.AoOTnCfWBD59j84Gu",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc45359e5a2",
+        "email": "ii@aa.com",
+        "username": "NewUsername",
+        "password": "$2y$10$EwTNOZb1YlY1Vw7q.RIYluAZhdKHrH1.Q5YfZpKN5TdTh\/rwDSoc6",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc45ed4696c",
+        "email": "new@user.com",
+        "username": "UserNew",
+        "password": "$2y$10$av97xrc1.RzrOTIM.NaHuOVQNc7Q5s7DCXKsgz6tCoTvbrdfk6a3G",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63dc47b6a4e47",
+        "email": "koko@koko.com",
+        "username": "KokoK",
+        "password": "$2y$10$6L0MTYKFKO4Wh7D0XUgvK.59dTjtzQVaxvFmOWnB6uCfVNgA6tp4e",
+        "date": "2001-02-02"
+    },
+    {
+        "id": "63dcd692459cc",
+        "email": "last@usertest.com",
+        "username": "UserTestL",
+        "password": "$2y$10$oL.SoCQ.XHecNi2INTLiie3tVdwXYen234IIrAggyjXR0cN8SWCye",
+        "date": "2001-12-12"
+    },
+    {
+        "id": "63fb532ddfeba",
+        "email": "new@era.com",
+        "username": "NewEra",
+        "password": "$2y$10$R1lmlkmKFWy24ExJjs1jfu4dU3faRSWqOS2BqjhWdw.TjhWwyFb1q",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63fb5738d3b02",
+        "email": "adm@c.com",
+        "username": "ADDA",
+        "password": "$2y$10$SCHtMIm5\/CA3Qripq189ouRCWJAl9FM5iUC66ywkeHUPTZQRqbvEm",
+        "date": "2001-02-01"
+    },
+    {
+        "id": "63fb585e5e54e",
+        "email": "asdas@ca.com",
+        "username": "ADadada",
+        "password": "$2y$10$VB3SAF794Sxjr0VPDW4OtePWRJaN.gfF9QFNL\/oWYLlbKRznQT45G",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63fb5af15b40b",
+        "email": "wdada@ca.com",
+        "username": "kdopaksopdkaops",
+        "password": "$2y$10$zHRB9\/J5j4sGeQfQlx.dKug.SAP5hvuXYDCspdTrthSBF7mZIx3.a",
+        "date": "2001-02-12"
+    },
+    {
+        "id": "63fb5de21a9b0",
+        "email": "asdadas@ca.com",
+        "username": "opkdpoaskopd",
+        "password": "$2y$10$YMgJqwEalpl5JSx0mD6NReVXY3nadAO5jkSAeKWbvkGeCEbPiu7pO",
+        "date": "2001-02-01"
+    }
+]

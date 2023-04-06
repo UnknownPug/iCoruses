@@ -1,0 +1,110 @@
+[
+    {
+        "id": "69900b6da03aff3020d1eb89ea7d8e53",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/Java.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/Qgl81fPcLc8",
+        "figcaption": "Teacher: Mr. Nelson"
+    },
+    {
+        "id": "4600d29d81c253acc3758b1b4a83160f",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/Python.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/rfscVS0vtbw",
+        "figcaption": "Teacher: Mike Dane"
+    },
+    {
+        "id": "35306ece71cc67dcf453aa37cb7d1ec3",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/CPP.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/8jLOx1hD3_o",
+        "figcaption": "Teacher: Daniel Gakwaya"
+    },
+    {
+        "id": "50ebcf79da6ab611d6938a1de933f500",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/CSH.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/GhQdlIFylQ8",
+        "figcaption": "Teacher: Mike Dane"
+    },
+    {
+        "id": "f9ef8a16fb1d8af53e3af153143bc93e",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/Swift.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/comQ1-x2a1Q",
+        "figcaption": "Teacher: Mr. Chris"
+    },
+    {
+        "id": "e90c9cf35d05b6126070bb86ba13564a",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/PostgresSQL.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/qw--VYLpxG4",
+        "figcaption": "Teacher: Mr. Nelson"
+    },
+    {
+        "id": "11b84bc84ba087c7f99a43918610bed5",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/JavaScript.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/jS4aFq5-91M",
+        "figcaption": "Teacher: Daniel Gakwaya"
+    },
+    {
+        "id": "b91418552c155adcca16786a75fa3553",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/HTML.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/kUMe1FH4CHE",
+        "figcaption": "Teacher: Daniel Gakwaya"
+    },
+    {
+        "id": "38c2a1ee15a397f5a912ad9327f7328b",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/PHP.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/OK_JCtrrv-c",
+        "figcaption": "Teacher: Mike Dane"
+    },
+    {
+        "id": "fe0dc9d2da0811d9e2bebff9c750b84d",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/NoSQL.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/xh4gy1lbL2k",
+        "figcaption": "Teacher: Ania Kubow"
+    },
+    {
+        "id": "7c84f2d65f0398be80e77b9d2ab087a1",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/Rubby.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/t_ispmWmdjY",
+        "figcaption": "Teacher: Mike Dane"
+    },
+    {
+        "id": "4179b360b93274c0e63c12657c76573a",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/Go.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/jFfo23yIWac",
+        "figcaption": "Teacher: Akhil Sharma"
+    },
+    {
+        "id": "656a0340c8f481046d41f6d26b50bcf6",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/Rust.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/MsocPEZBd-M",
+        "figcaption": "Teacher: Shaun Hamilton"
+    },
+    {
+        "id": "1020141be5ad87e1f5b13b0e854c0d03",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/Learn.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/bJzb-RuUcMU",
+        "figcaption": "Teacher: CroatCode"
+    },
+    {
+        "id": "1b855341502a09c2071b143b78678e1c",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/Dijango.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/F5mRW0jo-U4",
+        "figcaption": "Teacher: Unknown"
+    },
+    {
+        "id": "91ceac3a1c71029e0616d07a3e4bcb85",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/",
+        "link": "https:\/\/www.youtube.com\/embed\/",
+        "figcaption": "Teacher: koko"
+    },
+    {
+        "id": "2c41d64aa29a73b8281ebf579f0fa8fe",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/",
+        "link": "https:\/\/www.youtube.com\/embed\/",
+        "figcaption": "Teacher: Koko"
+    },
+    {
+        "id": "e82ee7e1b7b21188729a042a298cf399",
+        "src": "..\/..\/..\/public\/images\/list_of_lessons\/002-bugs-meme.jpg",
+        "link": "https:\/\/www.youtube.com\/embed\/",
+        "figcaption": "Teacher: Koko"
+    }
+]

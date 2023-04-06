@@ -1,0 +1,274 @@
+.login-body {
+    background-size: cover;
+    background-image: url("../../public/images/login/Background.jpg");
+}
+
+.login-container {
+    padding-top: 15vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.login-container#register {
+    padding-top: 3vh;
+}
+
+.login-container#video-container {
+    padding-top: 15vh;
+}
+
+.login-square {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 4%;
+    gap: 10px;
+    background: #000000;
+}
+
+.login-square#register-sq {
+    width: 60%;
+}
+
+.login-square#video-add {
+    border-radius: 0;
+}
+
+.error-field {
+    color: red;
+    font-size: 30px;
+    font-family: 'Arial', sans-serif;
+}
+
+.row {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-container {
+    color: white;
+}
+
+.img-logo {
+    width: 200px;
+    height: 200px;
+}
+
+.img-about-logo {
+    position: center;
+    display: flex;
+    padding-top: 10vh;
+}
+
+.img-sign-up {
+    width: 100%;
+    height: 50%;
+}
+
+.img-about-us {
+    width: 50%;
+    height: auto;
+    border-radius: 50px;
+}
+
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+}
+
+.welcome-text {
+    font-family: 'Metrophobic', sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    line-height: 150%;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+.input-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 80%;
+    height: 70%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.form-label {
+    font-family: 'Inter', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FF8A00;
+}
+
+.form-label-reg{
+    font-family: 'Inter', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.form-style {
+    font-size: 22px;
+    background: #D9D9D9;
+    border-radius: 19px;
+    border: none;
+}
+
+.video-form-style {
+    font-size: 22px;
+    background: #D9D9D9;
+    border-radius: 19px;
+    border: none;
+    width: 500px;
+}
+
+.lessons-list {
+    margin-top: 6vh;
+    display: grid;
+    overflow: auto;
+    resize: horizontal;
+    min-width: 120px;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    align-items: center;
+    padding-top: 60px;
+    max-width: 100%;
+    max-height: 100%;
+    gap: 30px;
+    box-sizing: border-box;
+}
+
+.video-rectangle {
+    position: absolute;
+    background: #000000;
+}
+
+.user-name {
+    color: deepskyblue;
+}
+
+.menu-text {
+    display: flex;
+    width: border-box;
+    align-items: center;
+    gap: 50px;
+    position: relative;
+    padding-top: 10vh;
+    font-family: 'Metrophobic', serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 23px;
+    color: #FFFFFF;
+}
+
+.menu-text#about-us {
+    text-align: left;
+}
+
+.text-form-style {
+    display: flex;
+    cursor: pointer;
+    word-wrap: normal;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    border: none;
+    color: #FF8A00;
+    background: #000000;
+}
+
+/*------ text-form-style id ------*/
+
+.text-form-style#sign-in {
+    color: #1cb00f;
+}
+
+.text-form-style#sign-up {
+    color: #c90852;
+}
+
+.text-form-style#menu {
+    color: #FFFFFF;
+    background-color: #2F2F2F;
+}
+
+.text-form-style#menu-pressed {
+    color: #FF8A00;
+    background-color: #2F2F2F;
+}
+
+.text-form-style#courses {
+    color: #FFFFFF;
+    background-color: #2F2F2F;
+}
+
+.text-form-style#courses-pressed {
+    color: #16f7ff;
+    background-color: #2F2F2F;
+}
+
+.text-form-style#about-us {
+    color: #FFFFFF;
+    background-color: #2F2F2F;
+}
+
+.text-form-style#about-us-pressed {
+    color: #C751FF;
+    background-color: #2F2F2F;
+}
+
+.text-form-style#contact-info {
+    color: #FFFFFF;
+    background-color: #2F2F2F;
+}
+
+.text-form-style#contact-info-pressed {
+    color: #FAFF00;
+    background-color: #2F2F2F;
+}
+
+.text-form-style#log-out {
+    color: red;
+    background-color: #2F2F2F;
+}
+
+.text-form-style#create {
+    color: #1B8E08;
+}
+
+.text-form-style#cancel {
+    color: #9F1919;
+}
+
+.text-form-style#contact-us {
+    font-size: 29px;
+    line-height: 36px;
+    border-radius: 40px;
+    font-weight: 400;
+    color: white;
+    background-color: #000000;
+}
+
+.text-form-style#add-video {
+    margin-top: 5vh;
+    margin-left: 65%;
+    font-size: 29px;
+    line-height: 30px;
+    border-radius: 40px;
+    font-weight: 400;
+    color: white;
+    background-color: #08b57b;
+}
