@@ -4,7 +4,7 @@
 
 ### Authors: Dmitry Rastvorov
 
-### All documentations can be found in [docs folder](https://github.com/UnknownPug/iCoruses/tree/main/public)
+### All documentations can be found in [docs folder](https://github.com/UnknownPug/iCoruses/tree/main/public/doc)
 
 ### The final document in [Czech 🇨🇿](https://github.com/UnknownPug/iCoruses/blob/main/public/doc/iCourses%20-%20Dokumentace.pdf)
 ### The final document in [English 🇬🇧](https://github.com/UnknownPug/iCoruses/blob/main/public/doc/iCourses%20-%20Dokumentace%20(en).pdf)
