@@ -2,6 +2,10 @@
     require '../../php/validation/logValidation.php'; // Connecting parsing logic validation.
     $userEmail =  isset($_SESSION['acc-email']) ? $_SESSION['acc-email'] : '';
     $userPassword = isset($_SESSION['acc-psd']) ? $_SESSION['acc-psd'] : '';
+    // Generate and store CSRF token
+    if (!isset($_SESSION['csrf_token'])) {
+        $_SESSION['csrf_token'] = bin2hex(random_bytes(32));
+    }
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -44,6 +48,7 @@
                            value="<?= htmlspecialchars($userPassword) ?>">
                 </div>
                 <div class="row">
+                    <input type="hidden" name="csrf_token" value="<?php echo $_SESSION['csrf_token'] ?? '' ?>">
                     <input type="submit" class="text-form-style" id="sign-in" name="login-acc" value="Sign In">
                     <a href="Registration.php" class="text-form-style" id="sign-up">Sign Up</a>
                 </div>

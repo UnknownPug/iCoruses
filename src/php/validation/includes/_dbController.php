@@ -99,6 +99,16 @@ function upload($image, $tmp) {
     return $image;
 }
 
+function getUserByUsername($username) { // Getting user by his username
+    $userInfo = json_decode(file_get_contents(DB_FILE), JSON_OBJECT_AS_ARRAY);
+
+    foreach ($userInfo as $user) {
+        if ($username == $user['username']) {
+            return $user;
+        }
+    }
+    return null;
+}
 
 function getUserByEmail($email) { // Getting user by his email
     $userInfo = json_decode(file_get_contents(DB_FILE), JSON_OBJECT_AS_ARRAY);

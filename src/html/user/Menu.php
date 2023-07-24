@@ -2,7 +2,6 @@
     session_start();
     require '../../php/validation/includes/_dbController.php'; // Connecting to our courses database.
     $uid = isset($_SESSION['uid']) ? $_SESSION['uid'] : NULL;
-
     if ($uid) {
         $user = getUserByUid($uid); // Getting username
     } else {
@@ -38,7 +37,6 @@
         </nav>
     </header>
     <img src="../../../public/images/menu/Background.jpg" alt="BackgroundMenuImg" class="img-sign-up">
-
     <div class="menu-text">
         <p>
             Hi <a class="user-name"><?= $uid ? $user['username'] : '' ?></a>! 👋🏻<br>
