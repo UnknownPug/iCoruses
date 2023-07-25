@@ -68,7 +68,7 @@
 
 ✅ The style is not directly on the element.
 
-✅ Styles outside the HTML document (using link).
+✅ Styles outside the HTML document (using `<link>`).
 
 ❌ Skinnability - The app will have multiple looks to choose from. The layouts will be implemented using CSS. The individual layouts will differ in color and layout. The change of appearance is permanent.
 
