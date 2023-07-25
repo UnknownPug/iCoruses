@@ -156,6 +156,6 @@
       - "Course"  
       - "About Us"
       - "Contact Information"
-      - Logout.
+      - "Logout"
 
 ## 🫸🏻 Thank you for your attention! 🫷🏻
