@@ -19,7 +19,7 @@
 ### [Comments in source code](#comment)
 
 <a name="webPage"><h2>Web page</h2></a>
-🌐 Project web page can be found by [clicking here](http://wa.toad.cz/~rastvdmy/semestralka/iCourses/src/html/user/index.php)
+🌐 Project web page can be found by [clicking here](http://wa.toad.cz/~rastvdmy/semestralka/iCourses/src/html/user/index.php).
 
 <a name="doc"><h2>Documentation</h2></a>
 📝 The final documentation in [Czech 🇨🇿](https://github.com/UnknownPug/iCoruses/blob/main/public/doc/iCourses%20-%20Dokumentace.pdf).
