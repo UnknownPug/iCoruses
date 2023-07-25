@@ -2,7 +2,7 @@
 
 ## (CTU - SIT winter semester 2022)
 
-### Authors: Dmitry Rastvorov
+### Author: Dmitry Rastvorov
 
 ## Contents
 
@@ -15,8 +15,6 @@
 ### [Process](#proc)
 
 ### [Description of functionality](#descfunc)
-
-### [Comments in source code](#comment)
 
 <a name="webPage"><h2>Web page</h2></a>
 🌐 Project web page can be found by [clicking here](http://wa.toad.cz/~rastvdmy/semestralka/iCourses/src/html/user/index.php).
@@ -159,4 +157,4 @@
       - "Contact Information"
       - Logout.
 
-## 🫸🏻 Thank you for your attention 🫷🏻
+## 🫸🏻 Thank you for your attention! 🫷🏻
