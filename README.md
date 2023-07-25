@@ -120,7 +120,8 @@
 
 ✅ Routing (deciding which script will process the request) is not done by the web server. - Using mod_rewrite, all requests are first processed by the central script.
 
-⚠️ **Confirmation image of the connected Front controller**:
+⚠️ **Confirmation image of the connected Front controller:**
+
 <img width="570" alt="mode_rewrite enabled" src="https://github.com/UnknownPug/iCoruses/assets/73190129/47be378c-a01d-438b-bfb7-a27b00cf20a1">
 
 ### Documentation
