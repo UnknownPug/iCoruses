@@ -6,8 +6,6 @@
 
 ## Contents
 
-### [Web page](#webPage)
-
 ### [Documentation](#doc)
 
 ### [Project goal](#projGoal)
@@ -15,9 +13,6 @@
 ### [Process](#proc)
 
 ### [Description of functionality](#descfunc)
-
-<a name="webPage"><h2>Web page</h2></a>
-🌐 Project web page can be found by [clicking here](http://wa.toad.cz/~rastvdmy/semestralka/iCourses/src/html/user/index.php).
 
 <a name="doc"><h2>Documentation</h2></a>
 📝 The final documentation in [Czech 🇨🇿](https://github.com/UnknownPug/iCoruses/blob/main/public/doc/iCourses%20-%20Dokumentace.pdf).
