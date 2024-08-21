@@ -157,5 +157,3 @@
       - "About Us"
       - "Contact Information"
       - "Logout"
-
-## 🫸🏻 Thank you for your attention! 🫷🏻
